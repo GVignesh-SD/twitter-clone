@@ -1,6 +1,8 @@
+/* TailwindCSS - Start */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+/* TailwindCSS - End */
 
 :root {
   @apply h-full bg-black
