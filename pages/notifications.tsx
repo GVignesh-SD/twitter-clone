@@ -1,3 +1,4 @@
+// Notifications
 import Header from "@/components/Header";
 import NotificationsFeed from "@/components/NotificationsFeed";
 import useCurrentUser from "@/hooks/useCurrentUser";

@@ -1,3 +1,4 @@
+// Index Page
 import PostFeed from "@/components/posts/PostFeed"
 import Header from "@/components/Header"
 import Form from "@/components/Form"
