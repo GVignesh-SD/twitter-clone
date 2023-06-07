@@ -1,3 +1,5 @@
+"API"
+
 import { NextApiRequest, NextApiResponse } from "next";
 
 import serverAuth from "@/libs/serverAuth";
